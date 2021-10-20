@@ -1,0 +1,18 @@
+.cardsDiv2{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:50px;
+}
+.cardsH1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+
+.cardsH1Span1{
+    color:#019add;
+}
+
+.cardsH1Span2{
+    color:#97c138;
+}

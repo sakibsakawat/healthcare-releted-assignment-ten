@@ -1,0 +1,24 @@
+.footerImg{
+    height: 300px;
+    width: 300;
+}
+.fc1{
+    color:rgb(34, 119, 230) ;
+}
+.fc2{
+    color:rgb(28, 210, 255) ;
+}
+.fc3{
+    color:rgb(226, 65, 218) ;
+}
+.fc4{
+    color:rgb(235, 30, 30) ;
+}
+.footerMain{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(196, 222, 247);
+}
+.socialTop{
+    margin-top: -100px;
+}

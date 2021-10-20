@@ -1,0 +1,18 @@
+.servicesDiv2{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:50px;
+}
+.servicesH1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+
+.servicesH1Span1{
+    color:#019add;
+}
+
+.servicesH1Span2{
+    color:#97c138;
+}

@@ -1,0 +1,21 @@
+.headerImg{
+    width: 215px;
+    height: 60px;
+    
+}
+.linkText{
+    font-weight:800; 
+    color: #009add  !important;
+}
+.linkText:hover{
+
+    border-bottom: 3px solid #009add ;
+   
+
+}
+
+.linkText1{
+   font-size: 15px;
+   font-family: 'Anton', sans-serif;
+   color: #97c138 !important;
+}
